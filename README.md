@@ -1,7 +1,6 @@
 HARIHARAN V
 212224220032
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
-
 # AIM:
 To develop the Online Ticket Reservation System using Star UML tool.
 # SRS (Procedure):
@@ -22,7 +21,6 @@ vi)Sequence Diagram
 Usecase Diagram
 <img width="1234" height="994" alt="se 3 usecase" src="https://github.com/user-attachments/assets/b37d99c3-0333-4431-9ca0-3fa7bfa1e543" />
 Class Diagram
-
 <img width="1233" height="992" alt="se 3 class" src="https://github.com/user-attachments/assets/aaa56d04-addd-40c1-bf76-357f5dfe32fc" />
 Activity Diagram
 <img width="1215" height="1000" alt="se 3 activity" src="https://github.com/user-attachments/assets/077b71fd-12ec-4fb9-9eb8-a2321d2872dc" />
